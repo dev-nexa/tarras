@@ -46,4 +46,5 @@ const footer = `<!-- Navbar & Hero Start -->
     </div>
 </div>`;
 
+
 document.getElementById('footer').innerHTML(footer);
