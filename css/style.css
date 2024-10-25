@@ -1,5 +1,4 @@
 /********** Template CSS **********/
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600&display=swap');
 :root {
     --primary: #FEA116;
     --light: #F1F8FF;
@@ -7,7 +6,7 @@
 }
 
 .ff-secondary {
-    font-family: 'Cairo', sans-serif;
+    font-family: 'Pacifico', cursive;
 }
 
 .fw-medium {
@@ -44,7 +43,7 @@
 
 /*** Button ***/
 .btn {
-    font-family: 'Cairo', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-weight: 500;
     text-transform: uppercase;
     transition: .5s;
